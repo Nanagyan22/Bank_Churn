@@ -72,7 +72,7 @@ The AI chatbot answers:
 📧 [francisaffulgyan@gmail.com](mailto:francisaffulgyan@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/francis-afful-gyan-2b27a5153/)  
 📅 October 2025  
-🌐 [Live Demo](https://veritas-bank-churn.streamlit.app/)  
+🌐 [Live Demo](https://bankchurnaz.streamlit.app/)  
 📊 *Project Status: Active Development*
 
 ## Thank You
