@@ -105,7 +105,7 @@ def convert_pdf_to_image():
 def display_header():
     """Display header with Veritas Bank branding"""
     st.markdown("""
-        <h1 style='text-align: center; color: #0a4d8c; font-size: 48px;'>🏦 Veritas Bank</h1>
+        <h1 style='text-align: center; color: #fe7a28; font-size: 48px;'>🏦 Veritas Bank</h1>
         <p style='text-align: center; font-size: 24px; color: #444;'>Customer Churn Analysis Dashboard & AI Assistant</p>
         <hr style='margin-bottom: 20px;'>
     """, unsafe_allow_html=True)
