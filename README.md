@@ -6,6 +6,9 @@ A data-driven banking analytics project integrating **Data Science** and **Busin
 
 ---
 
+![Header](Headeraz2.png)
+
+---
 ## 🚀 Goals
 - Analyze customer demographics, account behavior, and churn trends.  
 - Build interactive Power BI dashboards for management insights.  
