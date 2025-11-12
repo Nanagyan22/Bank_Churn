@@ -128,7 +128,7 @@ def main():
         st.markdown(
             """
             <iframe title="Veritas Bank Churn Dashboard" width="100%" height="700"
-            src="https://app.powerbi.com/view?r=eyJrIjoiMjc3ZGMwZTUtYzZlMy00NzA4LWFhNDItYzdmMDI4MjIyNDUwIiwidCI6IjhkMWE2OWVjLTAzYjUtNDM0NS1hZTIxLWRhZDExMmY1ZmI0ZiIsImMiOjN9"
+            src="https://app.powerbi.com/view?r=eyJrIjoiNDlhNzM5ZWItMWM5OC00MDZiLWFhY2UtMGZiNWY4ZDZhY2RkIiwidCI6IjhkMWE2OWVjLTAzYjUtNDM0NS1hZTIxLWRhZDExMmY1ZmI0ZiIsImMiOjN9"
             frameborder="0" allowFullScreen="true"></iframe>
             """,
             unsafe_allow_html=True
