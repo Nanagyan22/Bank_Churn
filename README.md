@@ -1,4 +1,4 @@
-![Header](Header.png)
+![Header](Headeraz.png)
 # 🏦 Veritas Bank – Customer Churn Analytics & Power BI Intelligence Assistant
 
 ### 💡 Overview
